@@ -19,7 +19,7 @@ After STOP 1, help the student propose and approve the six TARGET lines and one 
 
 ## My standing rule
 
-[One observable, student-approved rule that protects this project's purpose or experience.]
+When “Gentle rides only” is selected, never recommend a park unless its listed matching rides include a gentle option, and never present thrill rides as the reason for that match.
 
 ## Workflow
 
